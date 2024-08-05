@@ -17,15 +17,6 @@ export const metadata: Metadata = {
 };
 
 
-{/* Title optimized for Skyward and Bet.co.za */}
-<title>Skyward Has Landed at Bet.co.za - Experience Thrilling Casino Games</title>
-
-{/* Meta description with relevant keywords */}
-<meta
-  name="description"
-
-/>
-
 export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
