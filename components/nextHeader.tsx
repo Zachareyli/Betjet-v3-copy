@@ -1,3 +1,5 @@
+// "use client"
+
 import Head from 'next/head';
 
 function HeaderSection() {
