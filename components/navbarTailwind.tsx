@@ -35,7 +35,7 @@ export default function TailwindNavbar() {
 
   return (
     <div className="relative ">
-      <div className="bg-[url('https://www.betgames.tv/api/uploads/SKYWARD_web_4_ce39fe277a.jpg')] bg-cover background-darken">
+      <div className="bg-[url('https://central.bet.co.za/wp-content/uploads/2024/08/SKYWARD_web_4_ce39fe277a.jpg')] bg-cover background-darken">
         <header className="absolute inset-x-0 top-0 z-50">
           <nav aria-label="Global" className="flex items-center justify-between p-6 lg:px-8">
             <div className="flex lg:flex-1">
